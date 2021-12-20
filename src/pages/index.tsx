@@ -1,10 +1,7 @@
 import * as React from 'react';
 
+import Illustrations from '@/components/Illustrations'
 import Layout from '@/components/layout/Layout';
-import ArrowLink from '@/components/links/ArrowLink';
-import ButtonLink from '@/components/links/ButtonLink';
-import CustomLink from '@/components/links/CustomLink';
-import UnstyledLink from '@/components/links/UnstyledLink';
 import Seo from '@/components/Seo';
 
 // !STARTERCONF -> Select !STARTERCONF and CMD + SHIFT + F
@@ -18,43 +15,24 @@ export default function HomePage() {
       <Seo />
 
       <main>
-        <section className='bg-white'>
-          <div className='layout flex flex-col justify-center items-center min-h-screen text-center'>
-            <h1>Next.js + Tailwind CSS + TypeScript Starter</h1>
-            <p className='mt-2 text-sm text-gray-800'>
-              A starter for Next.js, Tailwind CSS, and TypeScript with Absolute
-              Import, Seo, Link component, pre-configured with Husky{' '}
+        <section className="px-2 pt-32 bg-[url('/images/ae044.png')] bg-no-repeat md:px-0 min-h-screen">
+          <div className="container justify-center items-center max-w-6xl px-5 mx-auto space-y-6 text-center">
+            <h1 className="text-4xl font-extrabold tracking-tight text-center text-gray-900 sm:text-5xl md:text-6xl md:text-center">
+              <span className="block">Muy pronto</span>
+            </h1>
+            <p className="w-full mx-auto text-base text-center text-gray-500 md:max-w-md sm:text-lg lg:text-2xl md:max-w-3xl md:text-center">
+              Estámos en construcción. Grupo Élève.
             </p>
-            <p className='mt-2 text-sm text-gray-700'>
-              <ArrowLink href='https://github.com/theodorusclarence/ts-nextjs-tailwind-starter'>
-                See the repository
-              </ArrowLink>
-            </p>
-
-            <ButtonLink className='mt-6' href='/components' variant='light'>
-              See all components
-            </ButtonLink>
-
-            <UnstyledLink
-              href='https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Ftheodorusclarence%2Fts-nextjs-tailwind-starter'
-              className='mt-4'
-            >
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
-                width='92'
-                height='32'
-                src='https://vercel.com/button'
-                alt='Deploy with Vercel'
-              />
-            </UnstyledLink>
-
-            <footer className='absolute bottom-2 text-gray-700'>
-              © {new Date().getFullYear()} By{' '}
-              <CustomLink href='https://theodorusclarence.com?ref=tsnextstarter'>
-                Theodorus Clarence
-              </CustomLink>
-            </footer>
           </div>
+          <div className="flex justify-center">
+            <div className="w-full md:w-1/2 lg:w-1/3">
+              <Illustrations />
+            </div>
+          </div>
+          <footer className='absolute bottom-2 left-1/2 transform -translate-x-1/2 text-gray-500'>
+            © {new Date().getFullYear()} {" "}
+            Grupo Élève. Todos los derechos reservados.
+          </footer>
         </section>
       </main>
     </Layout>
