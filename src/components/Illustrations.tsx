@@ -761,7 +761,6 @@ export default function Illustrations() {
                 height="12.66"
                 style={{
                   fill: "rgb(255, 255, 255)",
-                  fillOpacity: "0.7",
                   opacity: "0.3",
                   transformOrigin: "256.205px 233.3px 0px",
                   transform: "rotate(4.91deg)"
@@ -807,7 +806,6 @@ export default function Illustrations() {
               <path
                 d="M274.74,227.86h22a1.88,1.88,0,0,1,1.88,1.88v15.7a0,0,0,0,1,0,0H272.86a0,0,0,0,1,0,0v-15.7a1.88,1.88,0,0,1,1.88-1.88Z"
                 style={{
-                  fillOpacity: "0.7",
                   opacity: "0.3",
                   transformOrigin: "285.74px 236.65px 0px",
                   transform: "rotate(4.91deg)"
@@ -823,7 +821,6 @@ export default function Illustrations() {
                 height="12.66"
                 style={{
                   fill: "rgb(255, 255, 255)",
-                  fillOpacity: "0.7",
                   opacity: "0.3",
                   transformOrigin: "294.89px 236.63px 0px",
                   transform: "rotate(4.91deg)"
@@ -882,7 +879,6 @@ export default function Illustrations() {
               height="12.66"
               style={{
                 fill: "rgb(255, 255, 255)",
-                fillOpacity: "0.7",
                 opacity: "0.3",
                 transformOrigin: "286.095px 235.87px 0px",
                 transform: "rotate(4.91deg)"
@@ -898,7 +894,6 @@ export default function Illustrations() {
               height="12.66"
               style={{
                 fill: "rgb(255, 255, 255)",
-                fillOpacity: "0.7",
                 opacity: "0.3",
                 transformOrigin: "323.535px 239.09px 0px",
                 transform: "rotate(4.91deg)"
@@ -927,7 +922,6 @@ export default function Illustrations() {
               <path
                 d="M339.19,246.39,333,318.32l-115.89-10,6.19-71.92a4.54,4.54,0,0,1,4.92-4.14l106.82,9.18A4.54,4.54,0,0,1,339.19,246.39Z"
                 style={{
-                  fillOpacity: "0.7",
                   opacity: "0.3",
                   transformOrigin: "278.16px 275.281px 0px"
                 }}
@@ -964,7 +958,6 @@ export default function Illustrations() {
               d="M333.15,248.45l-73.51-6.32a1.88,1.88,0,0,1-1.71-2h0a1.88,1.88,0,0,1,2-1.71l73.51,6.32a1.88,1.88,0,0,1,1.71,2h0A1.88,1.88,0,0,1,333.15,248.45Z"
               style={{
                 fill: "rgb(255, 255, 255)",
-                fillOpacity: "0.7",
                 opacity: "0.3",
                 transformOrigin: "296.54px 243.435px 0px"
               }}
@@ -1743,7 +1736,6 @@ export default function Illustrations() {
               <path
                 d="M196,104h22a1.88,1.88,0,0,1,1.88,1.88v15.7a0,0,0,0,1,0,0H194.16a0,0,0,0,1,0,0v-15.7A1.88,1.88,0,0,1,196,104Z"
                 style={{
-                  fillOpacity: "0.7",
                   opacity: "0.3",
                   transformOrigin: "207.02px 112.79px 0px",
                   transform: "rotate(-5.27deg)"
@@ -1759,7 +1751,6 @@ export default function Illustrations() {
                 height="12.66"
                 style={{
                   fill: "rgb(255, 255, 255)",
-                  fillOpacity: "0.7",
                   opacity: "0.3",
                   transformOrigin: "215.215px 111.2px 0px",
                   transform: "rotate(-5.27deg)"
@@ -1805,7 +1796,6 @@ export default function Illustrations() {
               <path
                 d="M233.88,100.49h22a1.88,1.88,0,0,1,1.88,1.88v15.7a0,0,0,0,1,0,0H232a0,0,0,0,1,0,0v-15.7A1.88,1.88,0,0,1,233.88,100.49Z"
                 style={{
-                  fillOpacity: "0.7",
                   opacity: "0.3",
                   transformOrigin: "244.88px 109.28px 0px",
                   transform: "rotate(-5.27deg)"
@@ -1821,7 +1811,6 @@ export default function Illustrations() {
                 height="12.66"
                 style={{
                   fill: "rgb(255, 255, 255)",
-                  fillOpacity: "0.7",
                   opacity: "0.3",
                   transformOrigin: "253.89px 107.64px 0px",
                   transform: "rotate(-5.27deg)"
@@ -1880,7 +1869,6 @@ export default function Illustrations() {
               height="12.66"
               style={{
                 fill: "rgb(255, 255, 255)",
-                fillOpacity: "0.7",
                 opacity: "0.3",
                 transformOrigin: "245.095px 108.45px 0px",
                 transform: "rotate(-5.27deg)"
@@ -1896,7 +1884,6 @@ export default function Illustrations() {
               height="12.66"
               style={{
                 fill: "rgb(255, 255, 255)",
-                fillOpacity: "0.7",
                 opacity: "0.3",
                 transformOrigin: "282.515px 104.99px 0px",
                 transform: "rotate(-5.27deg)"
@@ -1925,7 +1912,6 @@ export default function Illustrations() {
               <path
                 d="M299.21,109.42l6.64,71.88L190,192,183.4,120.1a4.55,4.55,0,0,1,4.11-4.95l106.76-9.85A4.54,4.54,0,0,1,299.21,109.42Z"
                 style={{
-                  fillOpacity: "0.7",
                   opacity: "0.3",
                   transformOrigin: "244.615px 148.64px 0px"
                 }}
@@ -1962,7 +1948,6 @@ export default function Illustrations() {
               d="M293.64,112.51l-73.47,6.78a1.88,1.88,0,0,1-2-1.7h0a1.87,1.87,0,0,1,1.69-2l73.47-6.78a1.88,1.88,0,0,1,2,1.7h0A1.89,1.89,0,0,1,293.64,112.51Z"
               style={{
                 fill: "rgb(255, 255, 255)",
-                fillOpacity: "0.7",
                 opacity: "0.3",
                 transformOrigin: "256.749px 114.05px 0px"
               }}
@@ -2248,7 +2233,6 @@ export default function Illustrations() {
               <path
                 d="M216.33,357.31h22a1.88,1.88,0,0,1,1.88,1.88v15.7a0,0,0,0,1,0,0H214.45a0,0,0,0,1,0,0v-15.7A1.88,1.88,0,0,1,216.33,357.31Z"
                 style={{
-                  fillOpacity: "0.7",
                   opacity: "0.3",
                   transformOrigin: "227.33px 366.1px 0px"
                 }}
@@ -2263,7 +2247,6 @@ export default function Illustrations() {
                 height="12.66"
                 style={{
                   fill: "rgb(255, 255, 255)",
-                  fillOpacity: "0.7",
                   opacity: "0.3",
                   transformOrigin: "235.615px 365.3px 0px"
                 }}
@@ -2304,7 +2287,6 @@ export default function Illustrations() {
               <path
                 d="M254.33,357.31h22a1.88,1.88,0,0,1,1.88,1.88v15.7a0,0,0,0,1,0,0H252.45a0,0,0,0,1,0,0v-15.7A1.88,1.88,0,0,1,254.33,357.31Z"
                 style={{
-                  fillOpacity: "0.7",
                   opacity: "0.3",
                   transformOrigin: "265.33px 366.1px 0px"
                 }}
@@ -2319,7 +2301,6 @@ export default function Illustrations() {
                 height="12.66"
                 style={{
                   fill: "rgb(255, 255, 255)",
-                  fillOpacity: "0.7",
                   opacity: "0.3",
                   transformOrigin: "274.45px 365.3px 0px"
                 }}
@@ -2371,7 +2352,6 @@ export default function Illustrations() {
               height="12.66"
               style={{
                 fill: "rgb(255, 255, 255)",
-                fillOpacity: "0.7",
                 opacity: "0.3",
                 transformOrigin: "265.615px 365.3px 0px"
               }}
@@ -2386,7 +2366,6 @@ export default function Illustrations() {
               height="12.66"
               style={{
                 fill: "rgb(255, 255, 255)",
-                fillOpacity: "0.7",
                 opacity: "0.3",
                 transformOrigin: "303.195px 365.3px 0px"
               }}
@@ -2414,7 +2393,6 @@ export default function Illustrations() {
               <path
                 d="M319.42,371.23v72.19H203.11V371.23a4.55,4.55,0,0,1,4.55-4.55H314.87A4.55,4.55,0,0,1,319.42,371.23Z"
                 style={{
-                  fillOpacity: "0.7",
                   opacity: "0.3",
                   transformOrigin: "261.265px 405.05px 0px"
                 }}
@@ -2451,7 +2429,6 @@ export default function Illustrations() {
               d="M313.58,373.8H239.8a1.88,1.88,0,0,1-1.88-1.88h0A1.88,1.88,0,0,1,239.8,370h73.78a1.88,1.88,0,0,1,1.88,1.88h0A1.88,1.88,0,0,1,313.58,373.8Z"
               style={{
                 fill: "rgb(255, 255, 255)",
-                fillOpacity: "0.7",
                 opacity: "0.3",
                 transformOrigin: "276.69px 371.9px 0px"
               }}
