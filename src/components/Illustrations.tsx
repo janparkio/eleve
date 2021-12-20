@@ -1,9 +1,8 @@
 import * as React from 'react';
 
-export default function Illustrations({ children }: { children: React.ReactNode }) {
+export default function Illustrations() {
   return (
     <div>
-      {children}
       <svg
         className="animated"
         id="freepik_stories-team-work"
@@ -747,7 +746,6 @@ export default function Illustrations({ children }: { children: React.ReactNode 
               <path
                 d="M236.88,224.6h22a1.88,1.88,0,0,1,1.88,1.88v15.7a0,0,0,0,1,0,0H235a0,0,0,0,1,0,0v-15.7a1.88,1.88,0,0,1,1.88-1.88Z"
                 style={{
-                  fillOpacity: "0.7",
                   opacity: "0.3",
                   transformOrigin: "247.88px 233.39px 0px",
                   transform: "rotate(5.14276deg)"
