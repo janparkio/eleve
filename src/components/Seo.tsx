@@ -9,7 +9,7 @@ const defaultMeta = {
   siteName: 'Grupo Élève',
   description:
     'Somos el grupo empresarial que te eleva. La marca del profesional.',
-  url: 'https://tsnext-tw.thcl.dev',
+  url: 'https:/eleve.com.py',
   image: 'https://theodorusclarence.com/favicon/large-og.jpg',
   type: 'website',
   robots: 'follow, index',
