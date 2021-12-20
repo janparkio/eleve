@@ -21,7 +21,7 @@ export default function HomePage() {
               <span className="block">Muy pronto</span>
             </h1>
             <p className="w-full mx-auto text-base text-center text-gray-500 md:max-w-md sm:text-lg lg:text-2xl md:max-w-3xl md:text-center">
-              Estámos en construcción. Grupo Élève.
+              Estámos en construcción.
             </p>
           </div>
           <div className="flex justify-center">
@@ -31,7 +31,7 @@ export default function HomePage() {
           </div>
           <footer className='absolute bottom-2 left-1/2 transform -translate-x-1/2 text-gray-500'>
             © {new Date().getFullYear()} {" "}
-            Grupo Élève. Todos los derechos reservados.
+            Élève. Todos los derechos reservados.
           </footer>
         </section>
       </main>

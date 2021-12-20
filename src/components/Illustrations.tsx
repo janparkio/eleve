@@ -36,7 +36,7 @@ export default function Illustrations() {
           <path
             d="M110,112.47C123.46,96.39,141.65,84,163.33,84.21c37,.46,57,33.21,78.22,58.47,11,13.1,23.49,25.74,39.83,31.9,24.51,9.23,51.81,3.84,75.69-4.73,10.7-3.84,23.37-9.24,35.42-6.48,36.63,8.38,32.82,53.08,26.77,81.39C411.09,283,397.81,323.66,370.9,353c-64.43,70.29-180.38,27.2-238.5-28.89-4.27-4.13-8.36-8.43-12.21-13A179.75,179.75,0,0,1,95,272.74C76.28,233.79,73.7,186.45,90,146.2A128,128,0,0,1,110,112.47Z"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               transformOrigin: "251.184px 236.874px 0px"
             }}
             id="el4gpwzsf2gue"
@@ -580,7 +580,7 @@ export default function Illustrations() {
           <path
             d="M365.59,418.44l1,2.94a59.51,59.51,0,0,1-5.08,7.14s-1-.32-2.64,1.13a6.07,6.07,0,0,0-1.76,3.76s-7.64,9.16-17.33,9.29-6.77-4.75-6.77-4.75Z"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               stroke: "rgb(38, 50, 56)",
               strokeLinecap: "round",
               strokeLinejoin: "round",
@@ -610,7 +610,7 @@ export default function Illustrations() {
               <path
                 d="M356.48,395.13s-13-4.79-15.54,4.79c0,0,2.32,10.55.93,16.32s-8.39,16.79-8.82,18.88c-.85,4.1-.21,4.38-.21,4.38s5.09,2.94,11.93-.21,18.68-16.71,20.53-19.5S359.5,406,359.5,406Z"
                 style={{
-                  fill: "rgb(255, 193, 0)",
+                  fill: "#D3B26B",
                   opacity: "0.4",
                   transformOrigin: "349.099px 417.34px 0px"
                 }}
@@ -645,7 +645,7 @@ export default function Illustrations() {
           <path
             d="M346.58,430a8.77,8.77,0,0,1-5.56,5.14,15.47,15.47,0,0,1-8,0l3.12-6.32A19.94,19.94,0,0,0,346.58,430Z"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               stroke: "rgb(38, 50, 56)",
               strokeLinecap: "round",
               strokeLinejoin: "round",
@@ -705,7 +705,7 @@ export default function Illustrations() {
           <path
             d="M352.31,401.87l1.08,6.81s-8.2,5.4-13.62-1.35l0-7.11S341.81,405,352.31,401.87Z"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               stroke: "rgb(38, 50, 56)",
               strokeLinecap: "round",
               strokeLinejoin: "round",
@@ -727,7 +727,7 @@ export default function Illustrations() {
             <path
               d="M236.88,224.6h22a1.88,1.88,0,0,1,1.88,1.88v15.7a0,0,0,0,1,0,0H235a0,0,0,0,1,0,0v-15.7a1.88,1.88,0,0,1,1.88-1.88Z"
               style={{
-                fill: "rgb(255, 193, 0)",
+                fill: "#D3B26B",
                 transformOrigin: "247.88px 233.39px 0px",
                 transform: "rotate(5.14276deg)"
               }}
@@ -787,7 +787,7 @@ export default function Illustrations() {
             <path
               d="M274.74,227.86h22a1.88,1.88,0,0,1,1.88,1.88v15.7a0,0,0,0,1,0,0H272.86a0,0,0,0,1,0,0v-15.7a1.88,1.88,0,0,1,1.88-1.88Z"
               style={{
-                fill: "rgb(255, 193, 0)",
+                fill: "#D3B26B",
                 transformOrigin: "285.74px 236.65px 0px",
                 transform: "rotate(4.91deg)"
               }}
@@ -847,7 +847,7 @@ export default function Illustrations() {
             <path
               d="M266.77,227.17h22a1.88,1.88,0,0,1,1.88,1.88v15.7a0,0,0,0,1,0,0H264.89a0,0,0,0,1,0,0v-15.7A1.88,1.88,0,0,1,266.77,227.17Z"
               style={{
-                fill: "rgb(255, 193, 0)",
+                fill: "#D3B26B",
                 stroke: "rgb(38, 50, 56)",
                 strokeLinecap: "round",
                 strokeLinejoin: "round",
@@ -861,7 +861,7 @@ export default function Illustrations() {
             <path
               d="M304.63,230.43h22a1.88,1.88,0,0,1,1.88,1.88V248a0,0,0,0,1,0,0H302.75a0,0,0,0,1,0,0v-15.7A1.88,1.88,0,0,1,304.63,230.43Z"
               style={{
-                fill: "rgb(255, 193, 0)",
+                fill: "#D3B26B",
                 stroke: "rgb(38, 50, 56)",
                 strokeLinecap: "round",
                 strokeLinejoin: "round",
@@ -904,7 +904,7 @@ export default function Illustrations() {
           <path
             d="M339.19,246.39,333,318.32l-115.89-10,6.19-71.92a4.54,4.54,0,0,1,4.92-4.14l106.82,9.18A4.54,4.54,0,0,1,339.19,246.39Z"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               transformOrigin: "278.16px 275.281px 0px"
             }}
             id="elva3vttxwn6"
@@ -944,7 +944,7 @@ export default function Illustrations() {
           <path
             d="M339.19,246.39,333,318.32l-86-7.4L253.2,239a4.54,4.54,0,0,1,4.92-4.14l76.93,6.61A4.54,4.54,0,0,1,339.19,246.39Z"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               stroke: "rgb(38, 50, 56)",
               strokeLinecap: "round",
               strokeLinejoin: "round",
@@ -985,7 +985,7 @@ export default function Illustrations() {
               <path
                 d="M390.8,408.81s-5.54-3.95-17-3.16c0,0-.84,13.75-2.4,17.75s-9.78,10.93-11.31,12.12-1.53,5.34-1.53,5.34h34.82a110.91,110.91,0,0,0-2.77-17.66Z"
                 style={{
-                  fill: "rgb(255, 193, 0)",
+                  fill: "#D3B26B",
                   opacity: "0.4",
                   transformOrigin: "375.97px 423.203px 0px"
                 }}
@@ -1020,7 +1020,7 @@ export default function Illustrations() {
           <path
             d="M376,433.34s-1.75,2.18-3.69,2.47-12.19-.29-12.19-.29l4.18-3.62S372.8,430.47,376,433.34Z"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               stroke: "rgb(38, 50, 56)",
               strokeLinecap: "round",
               strokeLinejoin: "round",
@@ -1080,7 +1080,7 @@ export default function Illustrations() {
           <path
             d="M393.37,440.86v2.57h-4s-3.43-2-6.69,0H363.9a13.62,13.62,0,0,1-5.74-1.29l.39-1.28Z"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               stroke: "rgb(38, 50, 56)",
               strokeLinecap: "round",
               strokeLinejoin: "round",
@@ -1092,7 +1092,7 @@ export default function Illustrations() {
           <path
             d="M388.38,408l-.89,5.61s-10.45-3.39-16.22-1.19v-6.9S382,401.76,388.38,408Z"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               stroke: "rgb(38, 50, 56)",
               strokeLinecap: "round",
               strokeLinejoin: "round",
@@ -1717,7 +1717,7 @@ export default function Illustrations() {
             <path
               d="M196,104h22a1.88,1.88,0,0,1,1.88,1.88v15.7a0,0,0,0,1,0,0H194.16a0,0,0,0,1,0,0v-15.7A1.88,1.88,0,0,1,196,104Z"
               style={{
-                fill: "rgb(255, 193, 0)",
+                fill: "#D3B26B",
                 transformOrigin: "207.02px 112.79px 0px",
                 transform: "rotate(-5.27deg)"
               }}
@@ -1777,7 +1777,7 @@ export default function Illustrations() {
             <path
               d="M233.88,100.49h22a1.88,1.88,0,0,1,1.88,1.88v15.7a0,0,0,0,1,0,0H232a0,0,0,0,1,0,0v-15.7A1.88,1.88,0,0,1,233.88,100.49Z"
               style={{
-                fill: "rgb(255, 193, 0)",
+                fill: "#D3B26B",
                 transformOrigin: "244.88px 109.28px 0px",
                 transform: "rotate(-5.27deg)"
               }}
@@ -1837,7 +1837,7 @@ export default function Illustrations() {
             <path
               d="M225.92,101.22h22a1.88,1.88,0,0,1,1.88,1.88v15.7a0,0,0,0,1,0,0H224a0,0,0,0,1,0,0v-15.7A1.88,1.88,0,0,1,225.92,101.22Z"
               style={{
-                fill: "rgb(255, 193, 0)",
+                fill: "#D3B26B",
                 stroke: "rgb(38, 50, 56)",
                 strokeLinecap: "round",
                 strokeLinejoin: "round",
@@ -1851,7 +1851,7 @@ export default function Illustrations() {
             <path
               d="M263.76,97.73h22a1.88,1.88,0,0,1,1.88,1.88v15.7a0,0,0,0,1,0,0H261.88a0,0,0,0,1,0,0V99.61A1.88,1.88,0,0,1,263.76,97.73Z"
               style={{
-                fill: "rgb(255, 193, 0)",
+                fill: "#D3B26B",
                 stroke: "rgb(38, 50, 56)",
                 strokeLinecap: "round",
                 strokeLinejoin: "round",
@@ -1894,7 +1894,7 @@ export default function Illustrations() {
           <path
             d="M299.21,109.42l6.64,71.88L190,192,183.4,120.1a4.55,4.55,0,0,1,4.11-4.95l106.76-9.85A4.54,4.54,0,0,1,299.21,109.42Z"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               transformOrigin: "244.615px 148.64px 0px"
             }}
             id="elco3ogjr3bcp"
@@ -1934,7 +1934,7 @@ export default function Illustrations() {
           <path
             d="M299.21,109.42l6.64,71.88-86,7.93-6.63-71.88a4.55,4.55,0,0,1,4.11-4.95l76.89-7.1A4.54,4.54,0,0,1,299.21,109.42Z"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               stroke: "rgb(38, 50, 56)",
               strokeLinecap: "round",
               strokeLinejoin: "round",
@@ -2215,7 +2215,7 @@ export default function Illustrations() {
           <path
             d="M216.33,357.31h22a1.88,1.88,0,0,1,1.88,1.88v15.7a0,0,0,0,1,0,0H214.45a0,0,0,0,1,0,0v-15.7A1.88,1.88,0,0,1,216.33,357.31Z"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               transformOrigin: "227.33px 366.1px 0px"
             }}
             id="elr29in10de9f"
@@ -2269,7 +2269,7 @@ export default function Illustrations() {
           <path
             d="M254.33,357.31h22a1.88,1.88,0,0,1,1.88,1.88v15.7a0,0,0,0,1,0,0H252.45a0,0,0,0,1,0,0v-15.7A1.88,1.88,0,0,1,254.33,357.31Z"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               transformOrigin: "265.33px 366.1px 0px"
             }}
             id="elljfi0qr92ik"
@@ -2323,7 +2323,7 @@ export default function Illustrations() {
           <path
             d="M246.33,357.31h22a1.88,1.88,0,0,1,1.88,1.88v15.7a0,0,0,0,1,0,0H244.45a0,0,0,0,1,0,0v-15.7A1.88,1.88,0,0,1,246.33,357.31Z"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               stroke: "rgb(38, 50, 56)",
               strokeLinecap: "round",
               strokeLinejoin: "round",
@@ -2335,7 +2335,7 @@ export default function Illustrations() {
           <path
             d="M284.33,357.31h22a1.88,1.88,0,0,1,1.88,1.88v15.7a0,0,0,0,1,0,0H282.45a0,0,0,0,1,0,0v-15.7A1.88,1.88,0,0,1,284.33,357.31Z"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               stroke: "rgb(38, 50, 56)",
               strokeLinecap: "round",
               strokeLinejoin: "round",
@@ -2375,7 +2375,7 @@ export default function Illustrations() {
           <path
             d="M319.42,371.23v72.19H203.11V371.23a4.55,4.55,0,0,1,4.55-4.55H314.87A4.55,4.55,0,0,1,319.42,371.23Z"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               transformOrigin: "261.265px 405.05px 0px"
             }}
             id="el5kkyvdqtgcf"
@@ -2415,7 +2415,7 @@ export default function Illustrations() {
           <path
             d="M319.42,371.23v72.19H233.11V371.23a4.55,4.55,0,0,1,4.55-4.55h77.21A4.55,4.55,0,0,1,319.42,371.23Z"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               stroke: "rgb(38, 50, 56)",
               strokeLinecap: "round",
               strokeLinejoin: "round",
@@ -2576,7 +2576,7 @@ export default function Illustrations() {
           <path
             d="M98.21,386.83l1.89-14.35,4.56-3.44c7.39-17.93,40.87-51.42,50-51.31,13.71.16,16.13,14.55,17.82,30.3s-19.67,13.38-19.67,13.38v3.95l-12.15,6.29,7.36-.23S126.85,392,98.21,386.83Z"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               stroke: "rgb(38, 50, 56)",
               strokeLinecap: "round",
               strokeLinejoin: "round",
@@ -2699,7 +2699,7 @@ export default function Illustrations() {
           <path
             d="M152.8,321.58s14.76-3.95,19.91-1.05,14.91,16.35,14.91,16.35-11.9,10.65-15.58,9.68S157.1,344,157.1,344"
             style={{
-              fill: "rgb(255, 193, 0)",
+              fill: "#D3B26B",
               stroke: "rgb(38, 50, 56)",
               strokeLinecap: "round",
               strokeLinejoin: "round",

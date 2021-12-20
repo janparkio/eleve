@@ -5,12 +5,12 @@ import { openGraph } from '@/lib/helper';
 
 // !STARTERCONF Change these default meta
 const defaultMeta = {
-  title: 'Grupo Élève',
-  siteName: 'Grupo Élève',
+  title: 'Élève',
+  siteName: 'Élève',
   description:
-    'Somos el grupo empresarial que te eleva. La marca del profesional.',
+    'Somos Élève la empresa que te eleva al siguiente nivel.',
   url: 'https:/eleve.com.py',
-  image: 'https://theodorusclarence.com/favicon/large-og.jpg',
+  image: '/favicon/large-og.png',
   type: 'website',
   robots: 'follow, index',
 };
