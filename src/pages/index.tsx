@@ -1,7 +1,9 @@
+/* eslint-disable jsx-a11y/alt-text */
+/* eslint-disable @next/next/no-img-element */
 import * as React from 'react';
 
-import Illustrations from '@/components/Illustrations';
 import Layout from '@/components/layout/Layout';
+import Logos from '@/components/Logos';
 import Seo from '@/components/Seo';
 
 // Before you begin editing, follow all comments with `STARTERCONF`,
@@ -14,21 +16,20 @@ export default function HomePage() {
       <Seo />
 
       <main>
-        <section className="bg-[url('/images/ae044.png')] px-2 pt-32 min-h-screen bg-no-repeat md:px-0">
-          <div className='container justify-center items-center px-5 mx-auto space-y-6 max-w-6xl text-center'>
-            <h1 className='text-4xl font-extrabold tracking-tight text-center text-gray-900 sm:text-5xl md:text-6xl md:text-center'>
-              <span className='block'>Muy pronto</span>
-            </h1>
-            <p className='mx-auto w-full text-base text-center text-gray-500 sm:text-lg md:max-w-3xl md:text-center lg:text-2xl'>
-              Estámos en construcción.
-            </p>
-          </div>
-          <div className='flex justify-center'>
-            <div className='w-full md:w-1/2 lg:w-1/3'>
-              <Illustrations />
+        <section className="bg-[url('/images/ae044-red.png')] px-2 pt-32 min-h-screen bg-no-repeat md:px-0">
+          <div className='flex justify-center pt-8'>
+            <div className='w-3/4 md:w-1/3 lg:w-1/4'>
+              <img src='/images/eleve-logo.png' alt='Logo Eleve' />
             </div>
           </div>
-          <footer className='flex relative justify-center pb-8 text-gray-500'>
+
+          <div className='container justify-center items-center px-5 py-6 mx-auto space-y-6 max-w-6xl text-center'>
+            <h3 className='font-base text-4xl tracking-tight text-center text-gray-900 md:text-5xl md:text-center'>
+              <span className='block'>En construcción</span>
+            </h3>
+          </div>
+          <Logos />
+          <footer className='flex relative justify-center py-8 text-gray-500'>
             © {new Date().getFullYear()} Élève. Todos los derechos reservados.
           </footer>
         </section>

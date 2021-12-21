@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-document-import-in-page */
 import Document, {
   DocumentContext,
   Head,
@@ -14,7 +15,7 @@ class MyDocument extends Document {
 
   render() {
     return (
-      <Html lang='en'>
+      <Html lang='es'>
         <Head>
           <link
             rel='preload'
