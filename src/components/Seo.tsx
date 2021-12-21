@@ -7,8 +7,7 @@ import { openGraph } from '@/lib/helper';
 const defaultMeta = {
   title: 'Élève',
   siteName: 'Élève',
-  description:
-    'Somos Élève la empresa que te eleva al siguiente nivel.',
+  description: 'Somos Élève la empresa que te eleva al siguiente nivel.',
   url: 'https:/eleve.com.py',
   image: '/favicon/large-og.png',
   type: 'website',

@@ -3,15 +3,15 @@
 export default function Logos() {
   return (
     <div className=''>
-      <div className='px-4 py-24 mx-auto max-w-7xl sm:px-6 lg:px-8'>
-        <div className='grid grid-cols-2 gap-8 md:grid-cols-4'>
+      <div className='max-w-7xl mx-auto px-4 py-24 sm:px-6 lg:px-8'>
+        <div className='gap-8 grid grid-cols-2 md:grid-cols-4'>
           <a
             href='https://www.americana.edu.py/'
             target='_blank'
-            className='transition-all ease-in-out hover:brightness-110 hover:saturate-0'
+            className='ease-in-out transition-all hover:brightness-110 hover:saturate-0'
             rel='noreferrer'
           >
-            <div className='flex col-span-1 justify-center md:col-span-2 lg:col-span-1'>
+            <div className='col-span-1 flex justify-center md:col-span-2 lg:col-span-1'>
               <img
                 className='h-12'
                 src='/images/americana-logo.png'
@@ -22,10 +22,10 @@ export default function Logos() {
           <a
             href='https://www.sudamericana.edu.py/'
             target='_blank'
-            className='transition-all ease-in-out hover:brightness-110 hover:saturate-0'
+            className='ease-in-out transition-all hover:brightness-110 hover:saturate-0'
             rel='noreferrer'
           >
-            <div className='flex col-span-1 justify-center md:col-span-2 lg:col-span-1'>
+            <div className='col-span-1 flex justify-center md:col-span-2 lg:col-span-1'>
               <img
                 className='h-12'
                 src='/images/usud-logo.png'
@@ -33,14 +33,14 @@ export default function Logos() {
               />
             </div>
           </a>
-          <div className='flex col-span-1 justify-center md:col-span-2 lg:col-span-1'>
+          <div className='col-span-1 flex justify-center md:col-span-2 lg:col-span-1'>
             <img
               className='h-12'
               src='/images/wizard-logo.png'
               alt='Wizard Logo'
             />
           </div>
-          <div className='flex col-span-1 justify-center md:col-span-2 lg:col-span-1'>
+          <div className='col-span-1 flex justify-center md:col-span-2 lg:col-span-1'>
             <img
               className='h-12'
               src='/images/haizea-logo.png'
