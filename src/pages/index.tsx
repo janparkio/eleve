@@ -19,7 +19,7 @@ export default function HomePage() {
         <section className="bg-no-repeat min-h-screen pt-32 px-2 md:px-0">
           <div className='flex justify-center py-8'>
             <div className='w-64 max-w-sm md:w-2/3 lg:w-3/4'>
-              <PrimaryLogo className='text-primary' alt='Logo Eleve' />
+              <PrimaryLogo className='text-primary' />
             </div>
           </div>
           <Logos />
