@@ -1,4 +1,6 @@
-function PrimaryLogo(props) {
+import { SVGProps } from "react"
+
+function PrimaryLogo(props: JSX.IntrinsicAttributes & SVGProps<SVGSVGElement>) {
   return (
     <svg
       viewBox="0 0 369.76 137.59"
