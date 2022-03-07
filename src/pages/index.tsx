@@ -3,6 +3,7 @@ import * as React from 'react';
 
 import Layout from '@/components/layout/Layout';
 import Logos from '@/components/Logos';
+import PrimaryLogo from '@/components/PrimaryLogo';
 import Seo from '@/components/Seo';
 
 // Before you begin editing, follow all comments with `STARTERCONF`,
@@ -17,8 +18,8 @@ export default function HomePage() {
       <main className=''>
         <section className="bg-no-repeat min-h-screen pt-32 px-2 md:px-0">
           <div className='flex justify-center py-8'>
-            <div className='max-w-sm md:w-2/3 lg:w-3/4'>
-              <img src='/images/eleve-logo.png' alt='Logo Eleve' />
+            <div className='w-64 max-w-sm md:w-2/3 lg:w-3/4'>
+              <PrimaryLogo className='text-primary' alt='Logo Eleve' />
             </div>
           </div>
           <Logos />

@@ -19,19 +19,32 @@ module.exports = {
         primary: ['Poppins', ...fontFamily.sans],
       },
       colors: {
-        primary: {
-          // Customize it on globals.css :root
-          50: withOpacity('--tw-clr-primary-50'),
-          100: withOpacity('--tw-clr-primary-100'),
-          200: withOpacity('--tw-clr-primary-200'),
-          300: withOpacity('--tw-clr-primary-300'),
-          400: withOpacity('--tw-clr-primary-400'),
-          500: withOpacity('--tw-clr-primary-500'),
-          600: withOpacity('--tw-clr-primary-600'),
-          700: withOpacity('--tw-clr-primary-700'),
-          800: withOpacity('--tw-clr-primary-800'),
-          900: withOpacity('--tw-clr-primary-900'),
+        'primary': {
+          DEFAULT: '#DD4A1F',
+          '50': '#F6CABE',
+          '100': '#F3BCAC',
+          '200': '#EE9F88',
+          '300': '#E98264',
+          '400': '#E46641',
+          '500': '#DD4A1F',
+          '600': '#AC3A18',
+          '700': '#7B2911',
+          '800': '#49190A',
+          '900': '#180803'
         },
+        // primary: {
+        //   // Customize it on globals.css :root
+        //   50: withOpacity('--tw-clr-primary-50'),
+        //   100: withOpacity('--tw-clr-primary-100'),
+        //   200: withOpacity('--tw-clr-primary-200'),
+        //   300: withOpacity('--tw-clr-primary-300'),
+        //   400: withOpacity('--tw-clr-primary-400'),
+        //   500: withOpacity('--tw-clr-primary-500'),
+        //   600: withOpacity('--tw-clr-primary-600'),
+        //   700: withOpacity('--tw-clr-primary-700'),
+        //   800: withOpacity('--tw-clr-primary-800'),
+        //   900: withOpacity('--tw-clr-primary-900'),
+        // },
         dark: '#222222',
       },
       keyframes: {
