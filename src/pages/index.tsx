@@ -24,6 +24,7 @@ export default function HomePage() {
           </div>
           <Logos />
           <div className='container items-center justify-center max-w-sm md:max-w-6xl mx-auto px-5 pt-8 pb-6 space-y-6 text-center'>
+          <div className='container items-center justify-center max-w-6xl mx-auto px-5 pt-8 pb-6 space-y-6 text-center'>
             <h3 className='font-light text-3xl text-center text-gray-600 tracking-tight md:text-4xl'>
               <span className='block'>sitio en construcción</span>
             </h3>
@@ -35,6 +36,9 @@ export default function HomePage() {
               </div>
             </footer>
           </div>
+          <footer className='flex justify-center py-8 relative text-gray-500'>
+            © {new Date().getFullYear()} Élève. Todos los derechos reservados.
+          </footer>
         </section>
       </main>
     </Layout>
